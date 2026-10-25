@@ -1,0 +1,7 @@
+{
+  "name": "Crop Hub",
+  "description": "Advanced Agriculture Crop Hub for farmers, students, dealers, and agribusinesses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
